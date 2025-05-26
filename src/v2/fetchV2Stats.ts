@@ -1,6 +1,5 @@
 import type { BlockTag, Provider } from "@ethersproject/abstract-provider";
 import type { BigNumber } from "@ethersproject/bignumber";
-import { AddressZero } from "@ethersproject/constants";
 import { resolveProperties } from "@ethersproject/properties";
 import { Decimal } from "@liquity/lib-base";
 
@@ -102,8 +101,8 @@ const fetchSpAverageApysFromDune = async ({
       return [
         branch.collSymbol,
         {
-          apy_avg_1d: apys[0].apr,
-          apy_avg_7d: apys.reduce((acc, { apr }) => acc + apr, 0) / apys.length
+          apy_avg_1d: apys[0]?.apr ?? 0,
+          apy_avg_7d: apys.length > 0 ? apys.reduce((acc, { apr }) => acc + apr, 0) / apys.length : 0
         }
       ];
     })
@@ -133,10 +132,9 @@ export const fetchV2Stats = async ({
   const contracts = getContracts(provider, deployment);
 
   // Last step of deployment renounces Governance ownership
-  const deployed = await contracts.governance
-    .owner()
-    .then(owner => owner == AddressZero)
-    .catch(() => false);
+  const deployed = true
+
+  console.log("deployed", deployed);
 
   const [total_bold_supply, branches, spV2AverageApys] = await Promise.all([
     // total_bold_supply

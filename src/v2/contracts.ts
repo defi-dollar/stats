@@ -74,19 +74,12 @@ export interface StabilityPool {
   getTotalBoldDeposits(overrides?: CallOverrides): Promise<BigNumber>;
 }
 
-const governanceAbi = ["function owner() view returns (address)"];
-
 export interface Governance {
   owner(overrides?: CallOverrides): Promise<string>;
 }
 
 export const getContracts = (provider: Provider, deployment: LiquityV2Deployment) => ({
   boldToken: new Contract(deployment.boldToken, erc20Abi, provider) as unknown as ERC20,
-  governance: new Contract(
-    deployment.governance.governance,
-    governanceAbi,
-    provider
-  ) as unknown as Governance,
   branches: deployment.branches.map(branch => ({
     collSymbol: branch.collSymbol,
     collToken: new Contract(branch.collToken, erc20Abi, provider) as unknown as ERC20,

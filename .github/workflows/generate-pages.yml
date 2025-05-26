@@ -10,7 +10,10 @@ on:
   pull_request:
     branches: [main]
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
   lqty-supply:
