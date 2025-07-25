@@ -1,0 +1,1073 @@
+{
+  "lastUpdatedTimestamp": 1753432337045,
+  "total_bold_supply": "0",
+  "total_debt_pending": "0",
+  "total_coll_value": "0",
+  "total_sp_deposits": "0",
+  "total_value_locked": "0",
+  "max_sp_apy": "0",
+  "branch": {
+    "FXS": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "3.287",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "LINK": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "17.65646",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "UNI": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "10.09434097",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "SKY": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "0.08280358",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "CRV": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "1.04335648",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "AAVE": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "288.83555337",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "YFI": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "5424.97951397",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "LDO": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "1.059851745134947403",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "LQTY": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "1.19194418",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    },
+    "WBTC": {
+      "coll_active": "0",
+      "coll_default": "0",
+      "coll_price": "1157979408887300",
+      "sp_deposits": "0",
+      "interest_accrual_1y": "0",
+      "interest_pending": "0",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0",
+      "coll_value": "0",
+      "value_locked": "0",
+      "sp_apy": "0",
+      "apy_avg": "0",
+      "sp_apy_avg_1d": "0",
+      "sp_apy_avg_7d": "0"
+    }
+  },
+  "userPointsTop100": [
+    [
+      "0x8707f238936c12c309bfc2b9959c35828acfc512",
+      {
+        "total": 22990584225878.02,
+        "trove": 0,
+        "stability": 0,
+        "crv": 13661071786391.28
+      }
+    ],
+    [
+      "0xb53c23d2cc6219adf78ea22bfd38bffc50ec54cb",
+      {
+        "total": 13353532682127.92,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7934707825612.241
+      }
+    ],
+    [
+      "0xb1748c79709f4ba2dd82834b8c82d4a505003f27",
+      {
+        "total": 611225312077.5411,
+        "trove": 0,
+        "stability": 0,
+        "crv": 363191852104.04443
+      }
+    ],
+    [
+      "0xb9978e865bb1a81cd401a149b181d510e19946cc",
+      {
+        "total": 3728095765.8275,
+        "trove": 0,
+        "stability": 0,
+        "crv": 2215245310.12938
+      }
+    ],
+    [
+      "0x162fce4fedbb07b1079855472fbf61c228f5d92c",
+      {
+        "total": 2892766532.576539,
+        "trove": 0,
+        "stability": 0,
+        "crv": 1718890258.4875069
+      }
+    ],
+    [
+      "0xfc7d200e9d676da7d318a166931fc1a0cf22e376",
+      {
+        "total": 1869245952.3289654,
+        "trove": 0,
+        "stability": 0,
+        "crv": 1110711362.9780827
+      }
+    ],
+    [
+      "0xa0f75491720835b36edc92d06ddc468d201e9b73",
+      {
+        "total": 1529240569.7531219,
+        "trove": 0,
+        "stability": 0,
+        "crv": 908679179.1286665
+      }
+    ],
+    [
+      "0x3630220f243288e3eac4c5676fc191cff5756431",
+      {
+        "total": 1241584220.618864,
+        "trove": 0,
+        "stability": 0,
+        "crv": 737752942.6865722
+      }
+    ],
+    [
+      "0x4dd5d939486b23aabcfd08a063811e42f7c2b6a9",
+      {
+        "total": 1034999999.9999999,
+        "trove": 0,
+        "stability": 0,
+        "crv": 614999999.9999999
+      }
+    ],
+    [
+      "0x1e830ed61b6f1bb785481de18b06283d0736b955",
+      {
+        "total": 946881218.9965993,
+        "trove": 0,
+        "stability": 0,
+        "crv": 562639564.9110228
+      }
+    ],
+    [
+      "0x6cc3a15e11f7c3af621b1af89c39a9608b5a5065",
+      {
+        "total": 620646581.4883176,
+        "trove": 0,
+        "stability": 0,
+        "crv": 368789997.69595623
+      }
+    ],
+    [
+      "0x206ad63135ae6f46181ab270d5e4c3c000aa6009",
+      {
+        "total": 620518084.4060328,
+        "trove": 0,
+        "stability": 0,
+        "crv": 368713644.3572073
+      }
+    ],
+    [
+      "0x8e27d64063d74c7c2f7c8609e5b6d78d03378d23",
+      {
+        "total": 605933285.1837163,
+        "trove": 0,
+        "stability": 0,
+        "crv": 360047314.3845271
+      }
+    ],
+    [
+      "0xac6ccad7326eb636bc318944d558ef021cb40051",
+      {
+        "total": 592608297.6269939,
+        "trove": 0,
+        "stability": 0,
+        "crv": 352129568.15517026
+      }
+    ],
+    [
+      "0x1ed51e7b59b2e4cb6829c01db621202337a82241",
+      {
+        "total": 435793358.6561616,
+        "trove": 0,
+        "stability": 0,
+        "crv": 258949676.8826468
+      }
+    ],
+    [
+      "0xb2fc94980ac9e7229410db0931abda209e9d5474",
+      {
+        "total": 415075967.6801135,
+        "trove": 0,
+        "stability": 0,
+        "crv": 246639343.11427075
+      }
+    ],
+    [
+      "0x294fd17c700331aad5cc480400050e1005d2c531",
+      {
+        "total": 414000000,
+        "trove": 0,
+        "stability": 0,
+        "crv": 246000000
+      }
+    ],
+    [
+      "0x689fb8c6fc72ead7e47f63129975a85df72ff8af",
+      {
+        "total": 392995017.23535746,
+        "trove": 0,
+        "stability": 0,
+        "crv": 233518778.3572417
+      }
+    ],
+    [
+      "0x7e9fc755ca672c2f8c71d23130ddb2baea20a574",
+      {
+        "total": 391674208.45685726,
+        "trove": 0,
+        "stability": 0,
+        "crv": 232733949.95262572
+      }
+    ],
+    [
+      "0xd0a6258038b9ff7fcb332ee75e5c38b63addadc2",
+      {
+        "total": 311605672.6770214,
+        "trove": 0,
+        "stability": 0,
+        "crv": 185156993.90953445
+      }
+    ],
+    [
+      "0x160fbf05ad3245cc799cd08d6863a0cbeed4f009",
+      {
+        "total": 175949999.99999997,
+        "trove": 0,
+        "stability": 0,
+        "crv": 104549999.99999999
+      }
+    ],
+    [
+      "0x8976c9f24852236ff7211169af6fcf256082b6d4",
+      {
+        "total": 134564822.89304498,
+        "trove": 0,
+        "stability": 0,
+        "crv": 79958807.80601212
+      }
+    ],
+    [
+      "0xb8ccdc5a9d44fce9161be568dd7f7c1405a70257",
+      {
+        "total": 124229661.78789873,
+        "trove": 0,
+        "stability": 0,
+        "crv": 73817625.12034565
+      }
+    ],
+    [
+      "0x825ba8f9c13884b02e4277712f58cd6f97752d0c",
+      {
+        "total": 95929606.77050117,
+        "trove": 0,
+        "stability": 0,
+        "crv": 57001650.399863005
+      }
+    ],
+    [
+      "0xf0c23cc5d01395a8cc178fe52fbd9aa6f6de87c2",
+      {
+        "total": 93313658.3848992,
+        "trove": 0,
+        "stability": 0,
+        "crv": 55447246.28667924
+      }
+    ],
+    [
+      "0x8e6ed79c48944265fe5d004010c11cb28aa105b4",
+      {
+        "total": 93109803.06983167,
+        "trove": 0,
+        "stability": 0,
+        "crv": 55326114.8675812
+      }
+    ],
+    [
+      "0x439b388faa6e3aee0989dedca8df054f29f01553",
+      {
+        "total": 82730470.25508101,
+        "trove": 0,
+        "stability": 0,
+        "crv": 49158685.2240337
+      }
+    ],
+    [
+      "0xf85385347f56819c316939434d427d0c9537eddc",
+      {
+        "total": 74603530.94323911,
+        "trove": 0,
+        "stability": 0,
+        "crv": 44329634.32859132
+      }
+    ],
+    [
+      "0x0a00be3441d44c21ea25f83cf0fdbe60a50e0c6e",
+      {
+        "total": 74526210,
+        "trove": 0,
+        "stability": 0,
+        "crv": 44283690
+      }
+    ],
+    [
+      "0x255ecb08b3f2094c76da633c193ca7817c1e5d51",
+      {
+        "total": 66747491.322279766,
+        "trove": 0,
+        "stability": 0,
+        "crv": 39661552.81468794
+      }
+    ],
+    [
+      "0xbc52b01b4bd45d7a87d7ed000048d64ebab1f3ab",
+      {
+        "total": 64939152.76318752,
+        "trove": 0,
+        "stability": 0,
+        "crv": 38587032.80131435
+      }
+    ],
+    [
+      "0xdd4c53c7747660fb9954e5fc7b36f94b4a297922",
+      {
+        "total": 62228153.748880655,
+        "trove": 0,
+        "stability": 0,
+        "crv": 36976149.329045035
+      }
+    ],
+    [
+      "0xdc7937cd21d7baff6f1a78fc511994d2734e38b4",
+      {
+        "total": 62168283.86063698,
+        "trove": 0,
+        "stability": 0,
+        "crv": 36940574.467914715
+      }
+    ],
+    [
+      "0xa7c0279dc70285d0df8d756fe42215129bdcfd34",
+      {
+        "total": 62045628.95899708,
+        "trove": 0,
+        "stability": 0,
+        "crv": 36867692.56983883
+      }
+    ],
+    [
+      "0x2a1049062c6cfd69bd38fbaf3b0559df1dbbc92c",
+      {
+        "total": 52740083.55302163,
+        "trove": 0,
+        "stability": 0,
+        "crv": 31338310.517012857
+      }
+    ],
+    [
+      "0x8bd3fb2a03d647523f2f5fc053cb0249a895a839",
+      {
+        "total": 41943285.80724233,
+        "trove": 0,
+        "stability": 0,
+        "crv": 24922822.00140488
+      }
+    ],
+    [
+      "0x579b7e00d630af04257c63b4b131ec0c4cbf7760",
+      {
+        "total": 41446502.47538099,
+        "trove": 0,
+        "stability": 0,
+        "crv": 24627631.905661177
+      }
+    ],
+    [
+      "0x5f78ccfba908aeb48942237e20fbe65164c218f6",
+      {
+        "total": 40493859.28115724,
+        "trove": 0,
+        "stability": 0,
+        "crv": 24061568.5583688
+      }
+    ],
+    [
+      "0x62ee67dd4b1e95f0b123842b26b502da1da10c37",
+      {
+        "total": 39414783.19714841,
+        "trove": 0,
+        "stability": 0,
+        "crv": 23420378.421494048
+      }
+    ],
+    [
+      "0x8cd9f9c08c6a3f891bc570f1d6a3dc91c1f62bb0",
+      {
+        "total": 37512904.38917144,
+        "trove": 0,
+        "stability": 0,
+        "crv": 22290276.521101847
+      }
+    ],
+    [
+      "0x3fa96f50de9335e6a36dafb5d50164fbac181ea5",
+      {
+        "total": 37091291.849515,
+        "trove": 0,
+        "stability": 0,
+        "crv": 22039753.127972655
+      }
+    ],
+    [
+      "0x1695a8ba3f3313f9a9ed075df09c9fcc60840ba1",
+      {
+        "total": 33563344.38917139,
+        "trove": 0,
+        "stability": 0,
+        "crv": 19943436.521101817
+      }
+    ],
+    [
+      "0xacf6ade9613a4d9b2801a8a490c4bbba5b9f1ca9",
+      {
+        "total": 33050337.79714053,
+        "trove": 0,
+        "stability": 0,
+        "crv": 19638606.51714146
+      }
+    ],
+    [
+      "0xd45918673ffc13c467a30c3880ae51f2d37854a3",
+      {
+        "total": 31856209.298545897,
+        "trove": 0,
+        "stability": 0,
+        "crv": 18929051.902034517
+      }
+    ],
+    [
+      "0xa1c9d41719c4ffd99463f1cfa579d9b6a96b50c6",
+      {
+        "total": 31129951.78713801,
+        "trove": 0,
+        "stability": 0,
+        "crv": 18497507.583661698
+      }
+    ],
+    [
+      "0xe19a74217288f5c843a98940f14c32a675221ff9",
+      {
+        "total": 31050000,
+        "trove": 0,
+        "stability": 0,
+        "crv": 18450000
+      }
+    ],
+    [
+      "0x111053f8b7466e69e28ef151c0e5dceb0af198f3",
+      {
+        "total": 31045454.051231146,
+        "trove": 0,
+        "stability": 0,
+        "crv": 18447298.78406488
+      }
+    ],
+    [
+      "0x62ea30cfe51b1d1e7f0a8d3244af46b3a91332f1",
+      {
+        "total": 30964757.856591564,
+        "trove": 0,
+        "stability": 0,
+        "crv": 18399348.871308025
+      }
+    ],
+    [
+      "0xda489771e6d3abc882095d67c4c13d91f610d24f",
+      {
+        "total": 27134524.689085044,
+        "trove": 16416073.17491823,
+        "stability": 0,
+        "crv": 0
+      }
+    ],
+    [
+      "0x8df197cb5e95bd8a0dfaf15bfa60857ac66b6911",
+      {
+        "total": 25396942.28678903,
+        "trove": 0,
+        "stability": 0,
+        "crv": 15090936.721135512
+      }
+    ],
+    [
+      "0x9cfa2455ab78fabe23651f10551705de03a60533",
+      {
+        "total": 24844026.875276282,
+        "trove": 0,
+        "stability": 0,
+        "crv": 14762392.780961268
+      }
+    ],
+    [
+      "0x286e3a207891287fde649e4bfb1af543871eb498",
+      {
+        "total": 24808434.779975608,
+        "trove": 0,
+        "stability": 0,
+        "crv": 14741243.854768116
+      }
+    ],
+    [
+      "0x1df4c04d9c4247bedf051e73730c46a03c3d3050",
+      {
+        "total": 24800804.333395362,
+        "trove": 0,
+        "stability": 0,
+        "crv": 14736709.821292903
+      }
+    ],
+    [
+      "0x02314bdc21c4fb381e04420098f4e8f458429f34",
+      {
+        "total": 22487874.668669265,
+        "trove": 0,
+        "stability": 0,
+        "crv": 13362360.310368694
+      }
+    ],
+    [
+      "0xb26b4a4bba425ac28224cfdd45b4bd00c886cc33",
+      {
+        "total": 20672593.35370613,
+        "trove": 0,
+        "stability": 0,
+        "crv": 12283714.891332634
+      }
+    ],
+    [
+      "0xc204c2567732c87035ccd27b1f673dc9fc41d5e7",
+      {
+        "total": 19296776.14095384,
+        "trove": 0,
+        "stability": 0,
+        "crv": 11466200.315639222
+      }
+    ],
+    [
+      "0x5fc79e21ceca2aa0f7a0aac71ef3ddde8f004e9e",
+      {
+        "total": 18593355.020549707,
+        "trove": 0,
+        "stability": 0,
+        "crv": 11048225.44699332
+      }
+    ],
+    [
+      "0xc6571c2fb66825f13b7751b1c334810d397618eb",
+      {
+        "total": 18591637.242153224,
+        "trove": 0,
+        "stability": 0,
+        "crv": 11047204.738091037
+      }
+    ],
+    [
+      "0x778985f1dc9ce3d1ba00dda302e571f9bbd5801b",
+      {
+        "total": 18094708.76132166,
+        "trove": 0,
+        "stability": 0,
+        "crv": 10751928.394408537
+      }
+    ],
+    [
+      "0x663b667a843e7144865f81224835fed3b77a5f16",
+      {
+        "total": 17994917.15319497,
+        "trove": 0,
+        "stability": 0,
+        "crv": 10692631.931608591
+      }
+    ],
+    [
+      "0x1b859313ae0fcf5c03c7b2b87ffedfb4a131e6c3",
+      {
+        "total": 17911476.005315002,
+        "trove": 0,
+        "stability": 0,
+        "crv": 10643050.95967992
+      }
+    ],
+    [
+      "0x8f9366f3aad3f435ea4b8f320da258843797cf6b",
+      {
+        "total": 17161574.899100438,
+        "trove": 0,
+        "stability": 0,
+        "crv": 10197457.548740838
+      }
+    ],
+    [
+      "0xe58564b8ce8344afdfe3a111bc0b541ee7f5f7fa",
+      {
+        "total": 17092601.671968386,
+        "trove": 0,
+        "stability": 0,
+        "crv": 10156473.45725658
+      }
+    ],
+    [
+      "0x99329a9d73f7136ee28e344bd85132eeafae3fdc",
+      {
+        "total": 16708152.097419143,
+        "trove": 0,
+        "stability": 0,
+        "crv": 9928032.405712835
+      }
+    ],
+    [
+      "0x47180b1ec227476b9edc2ca1e8578445a1737f21",
+      {
+        "total": 16564965.918117523,
+        "trove": 0,
+        "stability": 0,
+        "crv": 9842950.762939397
+      }
+    ],
+    [
+      "0x8271a9758c5ed1e1b4c6e471f38c464f11b322c0",
+      {
+        "total": 14826554.062930465,
+        "trove": 0,
+        "stability": 0,
+        "crv": 8809981.399712302
+      }
+    ],
+    [
+      "0x5763893a71c86b9c5cf8b7a1b9b6374b2d2fa6e1",
+      {
+        "total": 14071858.833254963,
+        "trove": 0,
+        "stability": 0,
+        "crv": 8361539.3067167215
+      }
+    ],
+    [
+      "0x6cc47b11e63ed6c9425c13493f7b360d07928be2",
+      {
+        "total": 13935051.079293994,
+        "trove": 0,
+        "stability": 0,
+        "crv": 8280247.742768912
+      }
+    ],
+    [
+      "0xa3268edfd84415472d9c30ecdeba487f865ee063",
+      {
+        "total": 12891966.643121792,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7660443.947362238
+      }
+    ],
+    [
+      "0x542dc025fb0ad3e8734ae3a09d5138980aaf28fc",
+      {
+        "total": 12771574.92490175,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7588906.839434382
+      }
+    ],
+    [
+      "0xeffd5b1ffe1e3c1505d4b6bb6c62fa13945aff84",
+      {
+        "total": 12524809.608910061,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7442278.173410326
+      }
+    ],
+    [
+      "0xa8435c600d7588333b1e26a7ba9890620d0e27f7",
+      {
+        "total": 12428813.954267344,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7385237.277173336
+      }
+    ],
+    [
+      "0x3fcdebcaf5b31efbe8b10b161ac0fe9a1d359aa5",
+      {
+        "total": 12424203.284120591,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7382497.603607884
+      }
+    ],
+    [
+      "0x85ed1f02990eebe097154ef7e76dd43dd59d4a44",
+      {
+        "total": 12405679.905560348,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7371490.958376436
+      }
+    ],
+    [
+      "0x231babe53f527abee838591e21d544662fbded84",
+      {
+        "total": 12397697.601316996,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7366747.850057926
+      }
+    ],
+    [
+      "0x5691ccea44fc4a53886ff1b8666c89321f73c49d",
+      {
+        "total": 12394492.280778658,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7364843.239303274
+      }
+    ],
+    [
+      "0xa4e0dc9acca65efaf77f4c12e070d0745e5608c1",
+      {
+        "total": 12267899.466289232,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7289621.421997958
+      }
+    ],
+    [
+      "0x330f2f1a5d1a3596999df54317ac0455d73bc873",
+      {
+        "total": 11940984.003543302,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7095367.3064532615
+      }
+    ],
+    [
+      "0x40eddee537aead16c2c7e3dacfdcc8e7db49c596",
+      {
+        "total": 11895187.58148988,
+        "trove": 0,
+        "stability": 0,
+        "crv": 7068154.939725869
+      }
+    ],
+    [
+      "0x939b19c408afa885b68edf254f106b8506dd3ad0",
+      {
+        "total": 10327111.865582652,
+        "trove": 0,
+        "stability": 0,
+        "crv": 6136399.804186784
+      }
+    ],
+    [
+      "0x7cfd877f9f9bbefb34fedbd45dc6df1c7fcbe24c",
+      {
+        "total": 10094447.431404127,
+        "trove": 0,
+        "stability": 0,
+        "crv": 5998149.92300825
+      }
+    ],
+    [
+      "0xe38fd4714b68301418b52e66068bb11e4f198ccd",
+      {
+        "total": 9960522.47730509,
+        "trove": 0,
+        "stability": 0,
+        "crv": 5918571.327094321
+      }
+    ],
+    [
+      "0x63b4524a4a3b2eb0806dea4ea4c7674ce53142e9",
+      {
+        "total": 9936000,
+        "trove": 0,
+        "stability": 0,
+        "crv": 5904000
+      }
+    ],
+    [
+      "0x9dc051ce8da00508838d152c35f1fb94de32b6ae",
+      {
+        "total": 9905247.969959691,
+        "trove": 0,
+        "stability": 0,
+        "crv": 5885727.05461373
+      }
+    ],
+    [
+      "0x01d907f5048bb554dc70bb9b369be9c7b2ae686e",
+      {
+        "total": 9402917.637765508,
+        "trove": 0,
+        "stability": 0,
+        "crv": 5587240.915193997
+      }
+    ],
+    [
+      "0xf4810e7929a01ad2fd6bbe14a5e6ae2ce8557616",
+      {
+        "total": 9237640.049177233,
+        "trove": 0,
+        "stability": 0,
+        "crv": 5489032.492989363
+      }
+    ],
+    [
+      "0x3bb4893b1ef4b9e2c2db0ec26ac3f078e5fcbbf8",
+      {
+        "total": 9005216.530645771,
+        "trove": 0,
+        "stability": 0,
+        "crv": 5350925.764586616
+      }
+    ],
+    [
+      "0xec81347d4891431283d6aa590d82f46c32b23ce9",
+      {
+        "total": 8359245.126287442,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4967087.683736016
+      }
+    ],
+    [
+      "0xb25cd9449afed2fb8bd55657b7040ce15465e6fe",
+      {
+        "total": 8310408.741763506,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4938068.962497148
+      }
+    ],
+    [
+      "0x1b7118cff65d5e521c04391fe3406cbd58d8266c",
+      {
+        "total": 8223868.619255514,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4886646.5708619645
+      }
+    ],
+    [
+      "0x469ce8788f99b45dda2a85807c00d728cd8462a3",
+      {
+        "total": 8015253.637832413,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4762686.944219254
+      }
+    ],
+    [
+      "0x0e542a0f6e4c87cc26ea981cedacaaea00782e5e",
+      {
+        "total": 7439158.396862895,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4420369.482193897
+      }
+    ],
+    [
+      "0xe32d9d792449025a2902e2f0135ad7b82ae42640",
+      {
+        "total": 7149184.397573855,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4248066.091311999
+      }
+    ],
+    [
+      "0xc8dd81e7319339326b95fa16a43e19f4b295ac1e",
+      {
+        "total": 7001752.95062699,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4160461.89819864
+      }
+    ],
+    [
+      "0xf096405f8874edee05f2f4678562c1d21b27bc1c",
+      {
+        "total": 6956930.845070573,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4133828.473157876
+      }
+    ],
+    [
+      "0xd87e4695d674635795966bd72a545ca54d253140",
+      {
+        "total": 6796755.056353334,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4038651.5552244494
+      }
+    ],
+    [
+      "0x694e35a073decc957f0acbfad80654be676bb033",
+      {
+        "total": 6762690,
+        "trove": 0,
+        "stability": 0,
+        "crv": 4018410
+      }
+    ],
+    [
+      "0x1725a08609fad210b87d44770efcfc352ad1db77",
+      {
+        "total": 6653502.284397223,
+        "trove": 0,
+        "stability": 0,
+        "crv": 3953530.342902692
+      }
+    ],
+    [
+      "0xc218b5dcb7ab41f38108069acf14b651bd0bb632",
+      {
+        "total": 6508128.320808414,
+        "trove": 0,
+        "stability": 0,
+        "crv": 3867148.7123644184
+      }
+    ],
+    [
+      "0xa98972d02e723d83371e5ff1eac36c980cee0224",
+      {
+        "total": 6478454.113414921,
+        "trove": 0,
+        "stability": 0,
+        "crv": 3849516.212319018
+      }
+    ]
+  ]
+}
