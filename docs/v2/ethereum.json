@@ -1,0 +1,275 @@
+{
+  "lastUpdatedTimestamp": 1755304918241,
+  "total_bold_supply": "520172.059145468281021071",
+  "total_debt_pending": "174.600987227820622006",
+  "total_coll_value": "1343549.980360991909952294",
+  "total_sp_deposits": "275499.658081764565953267",
+  "total_value_locked": "1619049.638442756475905561",
+  "max_sp_apy": "0.11697402415518322",
+  "branch": {
+    "FXS": {
+      "coll_active": "10909.620583352367589261",
+      "coll_default": "0",
+      "coll_price": "2.77899668",
+      "sp_deposits": "3800",
+      "interest_accrual_1y": "440.222501766853261537",
+      "interest_pending": "12.366097992934795082",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "12.366097992934795082",
+      "coll_value": "30317.799381195892800695",
+      "value_locked": "34117.799381195892800695",
+      "sp_apy": "0.08688602008556313",
+      "apy_avg": "0.08688602008556313",
+      "sp_apy_avg_1d": "0.08688602008556313",
+      "sp_apy_avg_7d": "0.045389517218887586"
+    },
+    "LINK": {
+      "coll_active": "14096.632522717464292769",
+      "coll_default": "0",
+      "coll_price": "22.55882038",
+      "sp_deposits": "31921.668060014146035249",
+      "interest_accrual_1y": "4978.67462763444654055",
+      "interest_pending": "34.422571531247295907",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "34.422571531247295907",
+      "coll_value": "318003.401042849546469639",
+      "value_locked": "349925.069102863692504888",
+      "sp_apy": "0.11697402415518322",
+      "apy_avg": "0.11697402415518322",
+      "sp_apy_avg_1d": "0.11697402415518322",
+      "sp_apy_avg_7d": "0.22293396837675536"
+    },
+    "UNI": {
+      "coll_active": "8462.332951",
+      "coll_default": "0",
+      "coll_price": "10.93382675",
+      "sp_deposits": "8416",
+      "interest_accrual_1y": "1068.666850495782154953",
+      "interest_pending": "15.880763513094284817",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "15.880763513094284817",
+      "coll_value": "92525.68238705023925",
+      "value_locked": "100941.68238705023925",
+      "sp_apy": "0.09523528254180569",
+      "apy_avg": "0.09523528254180569",
+      "sp_apy_avg_1d": "0.09523528254180569",
+      "sp_apy_avg_7d": "0.10663783572430104"
+    },
+    "SKY": {
+      "coll_active": "1266479.760706608622919439",
+      "coll_default": "0",
+      "coll_price": "0.07504118",
+      "sp_deposits": "27040",
+      "interest_accrual_1y": "1095.426585957275104968",
+      "interest_pending": "28.742859840665853173",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "28.742859840665853173",
+      "coll_value": "95038.135689541544862049",
+      "value_locked": "122078.135689541544862049",
+      "sp_apy": "0.03038350367854868",
+      "apy_avg": "0.03038350367854868",
+      "sp_apy_avg_1d": "0.03038350367854868",
+      "sp_apy_avg_7d": "0.02126390250574545"
+    },
+    "CRV": {
+      "coll_active": "41441.547212337297432156",
+      "coll_default": "0",
+      "coll_price": "0.86977448",
+      "sp_deposits": "14925",
+      "interest_accrual_1y": "532.302095583479275594",
+      "interest_pending": "13.965030548743745105",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "13.965030548743745105",
+      "coll_value": "36044.800177006122458658",
+      "value_locked": "50969.800177006122458658",
+      "sp_apy": "0.026748849024295442",
+      "apy_avg": "0.026748849024295442",
+      "sp_apy_avg_1d": "0.026748849024295442",
+      "sp_apy_avg_7d": "0.013476924611447222"
+    },
+    "AAVE": {
+      "coll_active": "470.114824060150616122",
+      "coll_default": "0",
+      "coll_price": "295.1006",
+      "sp_deposits": "20060",
+      "interest_accrual_1y": "1245.402858045214773058",
+      "interest_pending": "19.413214642245899231",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "19.413214642245899231",
+      "coll_value": "138731.166649044882907971",
+      "value_locked": "158791.166649044882907971",
+      "sp_apy": "0.04656291842143126",
+      "apy_avg": "0.04656291842143126",
+      "sp_apy_avg_1d": "0.04656291842143126",
+      "sp_apy_avg_7d": "0.037137272380642516"
+    },
+    "YFI": {
+      "coll_active": "5.377729710235468744",
+      "coll_default": "0",
+      "coll_price": "5624.50026",
+      "sp_deposits": "14300",
+      "interest_accrual_1y": "432.210680196768381378",
+      "interest_pending": "11.342405544311388201",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "11.342405544311388201",
+      "coll_value": "30247.042153429118611849",
+      "value_locked": "44547.042153429118611849",
+      "sp_apy": "0.02266839231801233",
+      "apy_avg": "0.02266839231801233",
+      "sp_apy_avg_1d": "0.02266839231801233",
+      "sp_apy_avg_7d": "0.017018656093240225"
+    },
+    "LDO": {
+      "coll_active": "63521.320372080644036496",
+      "coll_default": "0",
+      "coll_price": "1.39639557579231163",
+      "sp_deposits": "11100",
+      "interest_accrual_1y": "968.738024068511869066",
+      "interest_pending": "11.316319863348267074",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "11.316319863348267074",
+      "coll_value": "88700.890736059445759468",
+      "value_locked": "99800.890736059445759468",
+      "sp_apy": "0.06545527189652108",
+      "apy_avg": "0.06545527189652108",
+      "sp_apy_avg_1d": "0.06545527189652108",
+      "sp_apy_avg_7d": "0.04196412553476769"
+    },
+    "LQTY": {
+      "coll_active": "287177.901451563720803555",
+      "coll_default": "0",
+      "coll_price": "0.92704972",
+      "sp_deposits": "24811.990021750419918018",
+      "interest_accrual_1y": "1856.178344986459966841",
+      "interest_pending": "7.498169448392792621",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "7.498169448392792621",
+      "coll_value": "266228.193130859740933093",
+      "value_locked": "291040.183152610160851111",
+      "sp_apy": "0.05610729963696937",
+      "apy_avg": "0.05610729963696937",
+      "sp_apy_avg_1d": "0.05610729963696937",
+      "sp_apy_avg_7d": "0.10043462361533584"
+    },
+    "WBTC": {
+      "coll_active": "0.000000000210423029",
+      "coll_default": "0",
+      "coll_price": "1177213683270168",
+      "sp_deposits": "119125",
+      "interest_accrual_1y": "2462.668226188613860131",
+      "interest_pending": "19.653554302836300795",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "19.653554302836300795",
+      "coll_value": "247712.869013955375898872",
+      "value_locked": "366837.869013955375898872",
+      "sp_apy": "0.01550473174935119",
+      "apy_avg": "0.01550473174935119",
+      "sp_apy_avg_1d": "0.01550473174935119",
+      "sp_apy_avg_7d": "0.020350971331659536"
+    }
+  },
+  "userPointsTop100": [
+    [
+      "0xda489771e6d3abc882095d67c4c13d91f610d24f",
+      {
+        "totalPoint": 1502473.1118071158
+      }
+    ],
+    [
+      "0x83d285f1387fc3fd3c48a621ed022f050a6492f9",
+      {
+        "totalPoint": 686743.6711846427
+      }
+    ],
+    [
+      "0xc3598d91844b061195136600ad243b077cc164e2",
+      {
+        "totalPoint": 245108.512
+      }
+    ],
+    [
+      "0xf06016d822943c42e3cb7fc3a6a3b1889c1045f8",
+      {
+        "totalPoint": 116461.37171178285
+      }
+    ],
+    [
+      "0x0be9f8da1489db28f5d772aef37cf4b1c6bff7d1",
+      {
+        "totalPoint": 106389.9672979707
+      }
+    ],
+    [
+      "0x896727156778e41c2841555b2830c9d9ed22a232",
+      {
+        "totalPoint": 79338.14987120991
+      }
+    ],
+    [
+      "0x87376f16268a0b93055a6fbcbe94f093cb589b81",
+      {
+        "totalPoint": 62535.7518
+      }
+    ],
+    [
+      "0xf65e8725ef287d468f419eccd6d41c6ebbe868da",
+      {
+        "totalPoint": 46860.753483199995
+      }
+    ],
+    [
+      "0xae79f0562c2128cc12d0ac068ac288856fe0e1ab",
+      {
+        "totalPoint": 36625.005902238554
+      }
+    ],
+    [
+      "0x66d9af69e6845e8666f355676a267a726c04ea4e",
+      {
+        "totalPoint": 30700.00001004625
+      }
+    ],
+    [
+      "0x020ca66c30bec2c4fe3861a94e4db4a498a35872",
+      {
+        "totalPoint": 20607.46800623832
+      }
+    ],
+    [
+      "0x1ac62e0177d30b9f7cfcdab73004b308f06770f0",
+      {
+        "totalPoint": 11832.435356357239
+      }
+    ],
+    [
+      "0x6c8b972f234f6343ba4bbc9a35c7298f5d91ea92",
+      {
+        "totalPoint": 5342.328980800002
+      }
+    ],
+    [
+      "0x8deb2f92eead7ba282658f64ef5ffa952c4b1ebc",
+      {
+        "totalPoint": 3972.0000015540995
+      }
+    ],
+    [
+      "0xa75b454a6697954f87b766e96836b956c3fd165d",
+      {
+        "totalPoint": 1785.8979071005472
+      }
+    ],
+    [
+      "0xe694af6aa5220c7c4addd52c1e0ae7e85693a78b",
+      {
+        "totalPoint": 1509.391446553307
+      }
+    ],
+    [
+      "0xb44e53d37319270e31b3a6fac249a94090179902",
+      {
+        "totalPoint": 1098.0000005908428
+      }
+    ]
+  ]
+}
