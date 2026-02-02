@@ -1,0 +1,443 @@
+{
+  "lastUpdatedTimestamp": 1769992945014,
+  "total_bold_supply": "134655.824359662823971162",
+  "total_debt_pending": "5.940332209492048033",
+  "total_coll_value": "151040.656580885625694219",
+  "total_sp_deposits": "40268.055516998931513042",
+  "total_value_locked": "191308.712097884557207261",
+  "max_sp_apy": "0.6827257582987437",
+  "branch": {
+    "FXS": {
+      "coll_active": "2168.653566353696866628",
+      "coll_default": "0",
+      "coll_price": "0.82107918",
+      "sp_deposits": "100",
+      "interest_accrual_1y": "13.695727835384943219",
+      "interest_pending": "0.000484666167690564",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0.000484666167690564",
+      "coll_value": "1780.636291965769013219",
+      "value_locked": "1880.636291965769013219",
+      "sp_apy": "0.10271795876538707",
+      "apy_avg": "0.10271795876538707",
+      "sp_apy_avg_1d": "0.10271795876538707",
+      "sp_apy_avg_7d": "0.05024295680129993"
+    },
+    "LINK": {
+      "coll_active": "203.54995419060109312",
+      "coll_default": "0",
+      "coll_price": "9.91967",
+      "sp_deposits": "1200.597413766527134134",
+      "interest_accrual_1y": "100.000097034325705847",
+      "interest_pending": "1.159970684168335167",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "1.159970684168335167",
+      "coll_value": "2019.148374085879945389",
+      "value_locked": "3219.745787852407079523",
+      "sp_apy": "0.06246896079881869",
+      "apy_avg": "0.06246896079881869",
+      "sp_apy_avg_1d": "0.06246896079881869",
+      "sp_apy_avg_7d": "0.013419811880449701"
+    },
+    "UNI": {
+      "coll_active": "453.66388054969610421",
+      "coll_default": "0",
+      "coll_price": "3.96449254",
+      "sp_deposits": "2020.095296158174302274",
+      "interest_accrual_1y": "104.0000832101830779",
+      "interest_pending": "1.206171436896183422",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "1.206171436896183422",
+      "coll_value": "1798.547070106721304407",
+      "value_locked": "3818.642366264895606681",
+      "sp_apy": "0.03861207070576232",
+      "apy_avg": "0.03861207070576232",
+      "sp_apy_avg_1d": "0.03861207070576232",
+      "sp_apy_avg_7d": "0.019802504747944077"
+    },
+    "SKY": {
+      "coll_active": "30621.331279105101691336",
+      "coll_default": "0",
+      "coll_price": "0.06273532",
+      "sp_deposits": "1100",
+      "interest_accrual_1y": "60.193697986934288396",
+      "interest_pending": "0.002130142280359547",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0.002130142280359547",
+      "coll_value": "1921.039016620667868238",
+      "value_locked": "3021.039016620667868238",
+      "sp_apy": "0.041041157718364286",
+      "apy_avg": "0.041041157718364286",
+      "sp_apy_avg_1d": "0.041041157718364286",
+      "sp_apy_avg_7d": "0.02704215880209542"
+    },
+    "CRV": {
+      "coll_active": "6491.236809532764819834",
+      "coll_default": "0",
+      "coll_price": "0.2882",
+      "sp_deposits": "110.131720901652887401",
+      "interest_accrual_1y": "100.25301688710209445",
+      "interest_pending": "1.144478980072279276",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "1.144478980072279276",
+      "coll_value": "1870.774448507342821076",
+      "value_locked": "1980.906169408995708477",
+      "sp_apy": "0.6827257582987437",
+      "apy_avg": "0.6827257582987437",
+      "sp_apy_avg_1d": "0.6827257582987437",
+      "sp_apy_avg_7d": "0.04915844110980999"
+    },
+    "AAVE": {
+      "coll_active": "13.772765163949079391",
+      "coll_default": "0.000000000000000057",
+      "coll_price": "129.60286013",
+      "sp_deposits": "2714.146296086951229197",
+      "interest_accrual_1y": "82.306661446552667826",
+      "interest_pending": "1.024949696537246046",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "1.024949696537246046",
+      "coll_value": "1784.989757146629062141",
+      "value_locked": "4499.136053233580291338",
+      "sp_apy": "0.02274379836264246",
+      "apy_avg": "0.02274379836264246",
+      "sp_apy_avg_1d": "0.02274379836264246",
+      "sp_apy_avg_7d": "0.20743457323211187"
+    },
+    "YFI": {
+      "coll_active": "0.70102039095351362",
+      "coll_default": "0",
+      "coll_price": "2956.4428",
+      "sp_deposits": "100",
+      "interest_accrual_1y": "89.824980274970480265",
+      "interest_pending": "0.00317873788644302",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0.00317873788644302",
+      "coll_value": "2072.52668748770047655",
+      "value_locked": "2172.52668748770047655",
+      "sp_apy": "0.6736873520622787",
+      "apy_avg": "0.6736873520622787",
+      "sp_apy_avg_1d": "0.6736873520622787",
+      "sp_apy_avg_7d": "0.09264496816484877"
+    },
+    "LDO": {
+      "coll_active": "4244.367417080715995591",
+      "coll_default": "0",
+      "coll_price": "0.429161126758665486",
+      "sp_deposits": "1000",
+      "interest_accrual_1y": "104.000079999087978571",
+      "interest_pending": "1.206487990461261493",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "1.206487990461261493",
+      "coll_value": "1821.517503092126778796",
+      "value_locked": "2821.517503092126778796",
+      "sp_apy": "0.07800005999931597",
+      "apy_avg": "0.07800005999931597",
+      "sp_apy_avg_1d": "0.07800005999931597",
+      "sp_apy_avg_7d": "0.014637163729341925"
+    },
+    "LQTY": {
+      "coll_active": "7662.384598152389318688",
+      "coll_default": "0.000000000000100222",
+      "coll_price": "0.31630415",
+      "sp_deposits": "2826.713709219655272786",
+      "interest_accrual_1y": "10.009567523945456696",
+      "interest_pending": "0.11609650977830345",
+      "batch_management_fees_pending": "0.000000000000000036",
+      "debt_pending": "0.116096509778303486",
+      "coll_value": "2423.644047291683105617",
+      "value_locked": "5250.357756511338378403",
+      "sp_apy": "0.002655796240869235",
+      "apy_avg": "0.002655796240869235",
+      "sp_apy_avg_1d": "0.002655796240869235",
+      "sp_apy_avg_7d": "0.0007603676880712757"
+    },
+    "WBTC": {
+      "coll_active": "0.000000000170088573",
+      "coll_default": "0",
+      "coll_price": "785166404944682",
+      "sp_deposits": "29096.37108086597068725",
+      "interest_accrual_1y": "2158.446063022474377479",
+      "interest_pending": "0.076383365243946012",
+      "batch_management_fees_pending": "0",
+      "debt_pending": "0.076383365243946012",
+      "coll_value": "133547.833384581105318786",
+      "value_locked": "162644.204465447076006036",
+      "sp_apy": "0.055636991388641435",
+      "apy_avg": "0.055636991388641435",
+      "sp_apy_avg_1d": "0.055636991388641435",
+      "sp_apy_avg_7d": "0.07047868550501728"
+    }
+  },
+  "userPointsTop100": [
+    [
+      "0x0148ac2d0ffabb7634ffac5e7b770a34773e92ed",
+      {
+        "totalPoint": 5781526.177285599
+      }
+    ],
+    [
+      "0xda489771e6d3abc882095d67c4c13d91f610d24f",
+      {
+        "totalPoint": 5478431.352844051
+      }
+    ],
+    [
+      "0x83d285f1387fc3fd3c48a621ed022f050a6492f9",
+      {
+        "totalPoint": 1621224.6168258353
+      }
+    ],
+    [
+      "0xf06016d822943c42e3cb7fc3a6a3b1889c1045f8",
+      {
+        "totalPoint": 859507.2480965464
+      }
+    ],
+    [
+      "0xc3598d91844b061195136600ad243b077cc164e2",
+      {
+        "totalPoint": 675816.9000955127
+      }
+    ],
+    [
+      "0xf65e8725ef287d468f419eccd6d41c6ebbe868da",
+      {
+        "totalPoint": 554953.048450902
+      }
+    ],
+    [
+      "0x66d9af69e6845e8666f355676a267a726c04ea4e",
+      {
+        "totalPoint": 231987.77357913618
+      }
+    ],
+    [
+      "0x721c768a148573648a5a7eab4f4bca0236bfb28c",
+      {
+        "totalPoint": 198668.2526152415
+      }
+    ],
+    [
+      "0x87376f16268a0b93055a6fbcbe94f093cb589b81",
+      {
+        "totalPoint": 191955.4007
+      }
+    ],
+    [
+      "0xae79f0562c2128cc12d0ac068ac288856fe0e1ab",
+      {
+        "totalPoint": 182299.78533232101
+      }
+    ],
+    [
+      "0x13712a5b8b92b629824df347a1670df5afaff263",
+      {
+        "totalPoint": 169119.06958630733
+      }
+    ],
+    [
+      "0x0be9f8da1489db28f5d772aef37cf4b1c6bff7d1",
+      {
+        "totalPoint": 106389.9672979707
+      }
+    ],
+    [
+      "0x896727156778e41c2841555b2830c9d9ed22a232",
+      {
+        "totalPoint": 79535.68163846945
+      }
+    ],
+    [
+      "0x020ca66c30bec2c4fe3861a94e4db4a498a35872",
+      {
+        "totalPoint": 64926.26098688206
+      }
+    ],
+    [
+      "0x6c8b972f234f6343ba4bbc9a35c7298f5d91ea92",
+      {
+        "totalPoint": 64699.261793000005
+      }
+    ],
+    [
+      "0xaaf930115f76133aaadcfec70b94faae7dab6178",
+      {
+        "totalPoint": 38970.64698330762
+      }
+    ],
+    [
+      "0xa75b454a6697954f87b766e96836b956c3fd165d",
+      {
+        "totalPoint": 25413.689781502966
+      }
+    ],
+    [
+      "0x1ac62e0177d30b9f7cfcdab73004b308f06770f0",
+      {
+        "totalPoint": 22528.64413129484
+      }
+    ],
+    [
+      "0x8cdd5b195f0b0922ced3a8feafa80ede9ebe0299",
+      {
+        "totalPoint": 12144.509780710272
+      }
+    ],
+    [
+      "0x47628677d8aa6f5e11e37779576852e0209d6ae7",
+      {
+        "totalPoint": 12089.567569013056
+      }
+    ],
+    [
+      "0xe694af6aa5220c7c4addd52c1e0ae7e85693a78b",
+      {
+        "totalPoint": 9715.391446553307
+      }
+    ],
+    [
+      "0xb19ad9a0cbfa7c8093baa658183c5b4b3a424a2f",
+      {
+        "totalPoint": 7970.818499231968
+      }
+    ],
+    [
+      "0x8deb2f92eead7ba282658f64ef5ffa952c4b1ebc",
+      {
+        "totalPoint": 4428.000001733154
+      }
+    ],
+    [
+      "0x6827e5b7904a7a0b6e3f97ac463a3d3b0bd0ab08",
+      {
+        "totalPoint": 2415.56932530117
+      }
+    ],
+    [
+      "0x06f4a72304ce2c6f378cc5f3d2db94c3f0be87a7",
+      {
+        "totalPoint": 2055.643147847732
+      }
+    ],
+    [
+      "0x736d11b3d472dbe421c9a049f93a520f9bea8243",
+      {
+        "totalPoint": 1439.6743918200345
+      }
+    ],
+    [
+      "0xb44e53d37319270e31b3a6fac249a94090179902",
+      {
+        "totalPoint": 1098.0000005908428
+      }
+    ],
+    [
+      "0xfddca2c6d9aa26b711ddb8c8c8ef1a1c342ca248",
+      {
+        "totalPoint": 733.7853395579589
+      }
+    ],
+    [
+      "0x137b29e5a530245928d165b51edb72021e294bbd",
+      {
+        "totalPoint": 515.7664775661706
+      }
+    ],
+    [
+      "0xeb742e75defb1bfde2efeacbe23ba852c2d49fca",
+      {
+        "totalPoint": 476.12075494434663
+      }
+    ],
+    [
+      "0x830da1fc68f4827606a0f92cd3c8d5676104a2b0",
+      {
+        "totalPoint": 452.0251885950279
+      }
+    ],
+    [
+      "0x5840fd955dd5277835bb0721a800d5c35dfb7355",
+      {
+        "totalPoint": 309.264244138796
+      }
+    ],
+    [
+      "0x16723a8aa3d90b663b75b126c1a856fd59502d78",
+      {
+        "totalPoint": 244.10764652675186
+      }
+    ],
+    [
+      "0x9266e405d90056bb2b30e05f191dbf364868885e",
+      {
+        "totalPoint": 144.81559347869322
+      }
+    ],
+    [
+      "0xc5042f9d9a18e95547864438455c8f05b4987399",
+      {
+        "totalPoint": 138.70040152518544
+      }
+    ],
+    [
+      "0x7b4cc83513cf1cb0ec07b19c79eb5a6e1bc29de2",
+      {
+        "totalPoint": 79.77944360002215
+      }
+    ],
+    [
+      "0x8e26f746a53795a601540a68badab71aa3f72bbf",
+      {
+        "totalPoint": 51.57859213000673
+      }
+    ],
+    [
+      "0x000000000004444c5dc75cb358380d2e3de08a90",
+      {
+        "totalPoint": 46.82814865829998
+      }
+    ],
+    [
+      "0xf6275b76cc4bce638dc41b77d753283ddf6e045f",
+      {
+        "totalPoint": 39.707
+      }
+    ],
+    [
+      "0xcad8a87531199ca34e419f9ca1646de25395d755",
+      {
+        "totalPoint": 25.01313296391395
+      }
+    ],
+    [
+      "0x6beb298813c5ab384ecec4b64dab9dbf28debd62",
+      {
+        "totalPoint": 19.88490703564689
+      }
+    ],
+    [
+      "0x2921bf5e733f42561406368c26afffd17b7a4fec",
+      {
+        "totalPoint": 0.851064555738843
+      }
+    ],
+    [
+      "0x326962d3996e65d2e5d2fc39994937825735ac9b",
+      {
+        "totalPoint": 0.000004999993172281059
+      }
+    ],
+    [
+      "0x5275817b74021e97c980e95ede6bbac0d0d6f3a2",
+      {
+        "totalPoint": 0.000004244890064609999
+      }
+    ],
+    [
+      "0x1e0cabef79e70ddaca8859e9a33b306de1a368f9",
+      {
+        "totalPoint": -2.903107088059187e-11
+      }
+    ]
+  ]
+}
